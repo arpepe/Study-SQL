@@ -1,2 +1,3 @@
 -- demo
 -- hello
+-- It's Friday
